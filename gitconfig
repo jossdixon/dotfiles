@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josscdixon@gmail.com
+	name = Joss Dixon
